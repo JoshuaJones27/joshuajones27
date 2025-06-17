@@ -31,7 +31,7 @@ Applying AI techniques to monitor and optimize lettuce growth through computer v
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joshuajones27/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshuajones27/)  
 - 📧 Email: joshuajones272000@gmail.com  
 
 
