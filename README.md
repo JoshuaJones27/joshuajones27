@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there! I'm Joshua
 
-<!--
-**JoshuaJones27/joshuajones27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, innovation, and solving real-world problems through code. I'm currently focused on **Artificial Intelligence** applications in **vertical farming**, especially optimizing the growth of lettuce using computer vision, machine learning, and environmental control systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🎓 Researcher exploring how AI can revolutionize sustainable agriculture  
+- 🌱 Currently working on integrating AI in vertical farming systems  
+- 💻 Enthusiastic about data science, automation, and smart systems  
+- 📍 Based in Braga, Portugal
+- 🧠 Always learning and experimenting with new tech  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript, SQL  
+- **AI & Data**: TensorFlow, Scikit-learn, OpenCV, Pandas
+- **Tools**: Git, Docker, Jupyter, VS Code  
+
+---
+
+## 📌 Current Project
+
+🔬 **AI in Vertical Farming**  
+Applying AI techniques to monitor and optimize lettuce growth through computer vision, climate data analysis, and decision-support models. Aiming to contribute to sustainable agriculture and food security.
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joshuajones27/))  
+- 📧 Email: joshuajones272000@gmail.com  
+
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories, and let’s connect!
+
