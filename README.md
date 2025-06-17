@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and s
 
 - **Languages**: Python, JavaScript, SQL  
 - **AI & Data**: TensorFlow, Scikit-learn, OpenCV, Pandas
-- **Tools**: Git, Docker, Jupyter, VS Code  
+- **Tools**: Git, Docker, Jupyter, Webstorm  
 
 ---
 
